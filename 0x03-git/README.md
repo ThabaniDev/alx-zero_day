@@ -1,1 +1,1 @@
-# Getting to know Git
+# Getting to know and use git commands
